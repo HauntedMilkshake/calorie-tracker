@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calorie Tracker</string>
+    <string name="btn_bar_dashboard_icon">Dashboard</string>
+    <string name="btn_bar_food_log_icon">Food Log</string>
+    <string name="btn_bar_add_food_icon">Add Food</string>
+    <string name="btn_bar_strategy_icon">Strategy</string>
+    <string name="btn_bar_more_icon">More</string>
+
+</resources>
