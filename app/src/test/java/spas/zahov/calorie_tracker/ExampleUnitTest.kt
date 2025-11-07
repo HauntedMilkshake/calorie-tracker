@@ -1,4 +1,4 @@
-package spas.zahov.calorietracker
+package spas.zahov.calorie_tracker
 
 import org.junit.Test
 

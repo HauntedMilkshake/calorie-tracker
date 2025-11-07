@@ -5,3 +5,5 @@ App for tracking calories heavily inspired by [Macrofactor](https://macrofactora
 # App flow
 [Here](https://www.figma.com/design/SHzRvPie1Wqx2e7TiZzgy3/Calorie-app-flow?node-id=0-1&t=SnXio136iB3zASD1-1) is a figma link that loosely describes the flow 
 
+For now I just want to experiment with compose animations and better ui
+
